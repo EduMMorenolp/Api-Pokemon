@@ -43,8 +43,6 @@ Esta es una aplicación web interactiva construida con React que se conecta a un
 <img src="./QRCafecitoPayPal.png" alt="QR Cafecito" height="200" />
 <br/>
 
-<img src="https://doc.eggeducacion.com/static/media/logo.4c3ffc62.svg" alt="FotoEGG" width="300">
-
 ## Redes Sociales Edu M Moreno
 
 <br clear="both">
@@ -58,6 +56,7 @@ Esta es una aplicación web interactiva construida con React que se conecta a un
 
 ¡Espero que encuentres este repositorio útil!
 
+<img src="https://avatars.githubusercontent.com/u/126937215?v=4" alt="FotoEduMoreno" width="300">
 
 # Pokedex-API-Web
 
