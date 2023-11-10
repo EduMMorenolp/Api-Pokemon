@@ -2,6 +2,8 @@
 
 Esta es una aplicación web interactiva construida con React que se conecta a una API de Pokémon para mostrar información detallada sobre diferentes Pokémon. Los visitantes de la aplicación pueden buscar y explorar datos sobre sus Pokémon favoritos, incluyendo sus estadísticas, habilidades, tipos y más.
 
+# LINK :  https://edummorenolp.github.io/Api-Pokemon/
+
 ## Características Principales
 
 - Búsqueda de Pokémon por nombre o número de Pokédex.
